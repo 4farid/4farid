@@ -36,6 +36,3 @@ I specialize in transparent, "no black box" spatial modelling, with deep experti
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535) ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=MathWorks&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-QGIS-05122A?style=flat-square&logo=QGIS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
 
-<div>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=4farid&theme=dark" alt="4farid" />
-</div>
