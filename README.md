@@ -1,21 +1,41 @@
-# Hi, I'm Farid Gholamin 👋
+# Farid Gholamin
 
-**Water Resources Engineer | Spatial Modeler | Data Analyst**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghnfarid@gmail.com)
+[![Github](https://img.shields.io/github/followers/4farid?label=Follow&style=social)](https://github.com/4farid)
 
-I build reproducible Python/R pipelines to process multi-scale environmental data, run hydrological models, and support climate-adapted planning. Recent MSc graduate from Leibniz University Hannover with a focus on drought, spatial optimization, and AI-supported environmental modelling.
+## 👋 About Me
 
-### 🛠️ Tech Stack
-* **Code & Data:** Python, R, Xarray, NetCDF, Pandas
-* **Modelling:** SWAT+, SWMM, HBV, HEC-RAS
-* **Geospatial:** QGIS, ArcGIS Pro, ESA SNAP, Earth Observation (GRACE, Sentinel)
+Water Resources and Environmental Engineer with expertise in process-based hydrological modelling, spatial analysis, and the integration of hydro-climatic and satellite datasets. I specialize in turning complex environmental data into actionable, reproducible insights.
 
-### 💻 Featured Code
-* 🌧️ **[meteo-interp](https://github.com/4farid/meteo-interp)** *(Python)* — A geospatial tool for meteorological interpolation to watershed points using Inverse Distance Weighting (IDW) and Richter correction.
+### 🚀 What I'm Doing Now
 
-### 🔬 What I do
-- **Automated Workflows:** Writing scripts to fetch and process heavy climate APIs (DWD, ECMWF S2S forecasts) for model forcing.
-- **Hydrological Simulation:** Modeling water-balance in semi-arid regions (Northeast Brazil) using SWAT+ and satellite data.
-- **Transparent QA/QC:** Harmonizing heterogeneous spatial data (CRS, resolution) so outputs aren't a "black box". 
+- 🌍 **Environmental Modeler** - Building and evaluating agro-hydrological models (like SWAT+) to simulate water-balance components and assess climate variability.
+- 💻 **Data Pipeline Developer** - Automating workflows using Python and R to extract, process, and analyze massive meteorological datasets (DWD, ECMWF).
+- 🛰️ **Geostatistical Analyst** - Integrating Earth Observation data (GRACE, Sentinel, Landsat) with spatial optimization to solve real-world water and environmental trade-offs.
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/your-profile) | ghnfarid@gmail.com 
+### 💼 Professional Highlights
+
+- **Leibniz University Hannover** - Processed multi-source hydro-climatic datasets and built an automated S2S forecasting pipeline for irrigation management scenarios.
+- **Hydrological Research (Brazil)** - Integrated GRACE satellite data with SWAT+ to analyze water storage dynamics and drought in a semi-arid basin.
+- **Spatial Optimization** - Developed Python geospatial tools (like [meteo-interp](https://github.com/4farid/meteo-interp)) for meteorological interpolation using IDW and Richter correction.
+
+I specialize in transparent, "no black box" spatial modelling, with deep expertise in reproducible pipelines, GIS, and data-driven environmental engineering.
+
+📫 **Reach me:** ghnfarid@gmail.com
+
+### 🖥 Skills
+
+- **Hydrological & Environmental Modelling** (SWAT+, SWMM, HBV, HEC-RAS 1D/2D, WEAP)
+- **Spatial Analysis & GIS** (ArcGIS Pro, QGIS, ESA SNAP)
+- **Programming & Automation** (Python, R, MATLAB)
+- **Data Engineering** (NetCDF, Xarray, Pandas, long time-series processing)
+- **Geostatistics & Remote Sensing** (Kriging, IDW, GRACE, Sentinel, Landsat)
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535) ![Bootstrap](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=MathWorks&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-QGIS-05122A?style=flat-square&logo=QGIS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
+
+<div>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=4farid&theme=dark" alt="4farid" />
+</div>
