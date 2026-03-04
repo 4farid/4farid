@@ -1,6 +1,6 @@
 # Farid Gholamin
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faridgholamin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghnfarid@gmail.com)
 [![Github](https://img.shields.io/github/followers/4farid?label=Follow&style=social)](https://github.com/4farid)
 
