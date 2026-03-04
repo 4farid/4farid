@@ -8,7 +8,7 @@
 
 Water Resources and Environmental Engineer with expertise in process-based hydrological modelling, spatial analysis, and the integration of hydro-climatic and satellite datasets. I specialize in turning complex environmental data into actionable, reproducible insights.
 
-### 🚀 What I'm Doing Now
+### 🚀 What I Do
 
 - 🌍 **Environmental Modeler** - Building and evaluating agro-hydrological models (like SWAT+) to simulate water-balance components and assess climate variability.
 - 💻 **Data Pipeline Developer** - Automating workflows using Python and R to extract, process, and analyze massive meteorological datasets (DWD, ECMWF).
