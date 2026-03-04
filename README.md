@@ -12,7 +12,7 @@ Water Resources and Environmental Engineer with expertise in process-based hydro
 
 - 🌍 **Environmental Modeler** - Building and evaluating agro-hydrological models (like SWAT+) to simulate water-balance components and assess climate variability.
 - 💻 **Data Pipeline Developer** - Automating workflows using Python and R to extract, process, and analyze massive meteorological datasets (DWD, ECMWF).
-- 🛰️ **Geostatistical Analyst** - Integrating Earth Observation data (GRACE, Sentinel, Landsat) with spatial optimization to solve real-world water and environmental trade-offs.
+- 🛰️ **Geostatistical Analyst** - Integrating Earth Observation data (GRACE, Sentinel, Landsat)  to solve real-world water and environmental problems.
 
 ### 💼 Professional Highlights
 
